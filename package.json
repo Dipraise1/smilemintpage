@@ -9,8 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@project-serum/anchor": "^0.26.0",
+    "@solana/wallet-adapter-base": "^0.9.23",
+    "@solana/wallet-adapter-phantom": "^0.9.24",
+    "@solana/wallet-adapter-react": "^0.15.35",
+    "@solana/web3.js": "^1.95.3",
+    "framer-motion": "^11.5.2",
+    "next": "14.2.7",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.7"
+    "react-spring": "^9.7.4",
+    "styled-components": "^6.1.13"
   }
 }
